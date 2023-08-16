@@ -1,6 +1,6 @@
 # Taylor Swift Concert Opening Acts Exploratory Data Analyst
 
-If you have looked at my latest Taylor Swift concert project, this is like the "spin-off" of that project, because if I put it together the project will be 50 hours long *joke*
+If you have looked at my latest Taylor Swift concert project, this is like the "spin-off" of that project, because if I put it together the project will be 50 hours long *(I'm joking)*
 
 ## Then, what is this project?
 I became intrigued to explore the opening acts more thoroughly, particularly because each world tour featured different opening acts. To dive into this, I did an exploratory data analysis (EDA) using a weighted average approach. This involved calculating ticket sales based on the frequency of each opening act's appearances to kick off the show.
